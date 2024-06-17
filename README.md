@@ -1,7 +1,6 @@
 <marque><h1 align="center">Hi 👋, I'm Shrishail M Nandargi</h1><marquee>
 <h3 align="center">A passionate software developer from India</h3>
 
-<a href="https://github-readme-stats.vercel.app/api?username=ShrishailMN&show_icons=true&theme=default">
 
 - 🔭 I’m currently working on **developing new solutions for specific industry/sector, with a passion for specific aspect or challenge.**
 
