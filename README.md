@@ -1,21 +1,96 @@
-<marque><h1 align="center">Hi 👋, I'm Shrishail M Nandargi</h1><marquee>
-<h3 align="center">A passionate software developer from India</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shrishail M Nandargi - GitHub Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+            font-size: 2.5em;
+            text-align: center;
+            margin-top: 20px;
+            animation: colorchange 5s infinite alternate;
+        }
+        h2 {
+            color: #444;
+        }
+        @keyframes colorchange {
+            0% {
+                color: #ff4b5c;
+            }
+            25% {
+                color: #ff9a76;
+            }
+            50% {
+                color: #fddb3a;
+            }
+            75% {
+                color: #36f1cd;
+            }
+            100% {
+                color: #845ec2;
+            }
+        }
+        .skills img {
+            width: 50px;
+            height: 50px;
+            margin: 10px;
+        }
+        .stats img {
+            max-width: 100%;
+        }
+        .connect a {
+            margin-right: 10px;
+            text-decoration: none;
+            color: #0073b1;
+        }
+        .connect img {
+            vertical-align: middle;
+            margin-right: 5px;
+        }
+    </style>
+</head>
+<body>
 
+    <h1>Shrishail M Nandargi</h1>
 
-- 🔭 I’m currently working on **developing new solutions for specific industry/sector, with a passion for specific aspect or challenge.**
+    <section class="about">
+        <h2>About Me</h2>
+        <p>I'm a passionate Computer Science student with a keen interest in software development and data structures. I love exploring new technologies and applying them to solve real-world problems.</p>
+    </section>
 
-- 🌱 I’m currently learning **and expanding my skills every day to become a proficient developer and contribute meaningfully to innovative projects.**
+    <section class="skills">
+        <h2>Skills</h2>
+        <div>
+            <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python">
+            <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML">
+            <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS">
+            <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
+            <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL">
+            <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C">
+            <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java">
+            <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="AngularJS">
+        </div>
+    </section>
 
-- ⚡ Fun fact **I'm a content creator at heart and enjoy crafting engaging stories through videos, articles, and social media posts!**
+    <section class="stats">
+        <h2>GitHub Stats</h2>
+        <img src="https://github-readme-stats.vercel.app/api?username=ShrishailMN&show_icons=true&theme=radical" alt="Shrishail's GitHub Stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShrishailMN&theme=radical" alt="Shrishail's GitHub Streak">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrishailMN&layout=compact&theme=radical" alt="Shrishail's Top Languages">
+    </section>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/shrishail-m-n-4b3997270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrishail m.n" height="30" width="40" /></a>
-</p>
+    <section class="connect">
+        <h2>Connect with Me</h2>
+        <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"> LinkedIn</a>
+        <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"> GitHub</a>
+    </section>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrishailmn&show_icons=true&locale=en&layout=compact" alt="shrishailmn" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrishailmn&" alt="shrishailmn" /></p>
+</body>
+</html>
