@@ -9,7 +9,6 @@ I'm a passionate Computer Science student with a keen interest in software devel
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![SQL](https://img.icons8.com/color/48/000000/sql.png)
-![Data Structure](https://img.icons8.com/color/48/000000/data-structure.png)
 ![C](https://img.icons8.com/color/48/000000/c-programming.png)
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 ![AngularJS](https://img.icons8.com/color/48/000000/angularjs.png)
@@ -22,5 +21,5 @@ I'm a passionate Computer Science student with a keen interest in software devel
     </section>
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/shrishail-m-n-4b3997270)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shrishail-m-n-4b3997270/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/ShrishailMN)
