@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shrishail M Nandargi<img src="https://png.pngtree.com/png-clipart/20230914/original/pngtree-free-online-vector-png-image_12145926.png" height="130px" width="130px"></h1>
+<marque><h1 align="center">Hi 👋, I'm Shrishail M Nandargi</h1><marquee>
 <h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishailmn&label=Profile%20views&color=0e75b6&style=flat" alt="shrishailmn" /> </p>
