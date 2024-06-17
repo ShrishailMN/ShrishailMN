@@ -1,9 +1,7 @@
 <marque><h1 align="center">Hi 👋, I'm Shrishail M Nandargi</h1><marquee>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishailmn&label=Profile%20views&color=0e75b6&style=flat" alt="shrishailmn" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrishailmn" alt="shrishailmn" /></a> </p>
+https://github-readme-stats.vercel.app/api?username=ShrishailMN&show_icons=true&theme=default
 
 - 🔭 I’m currently working on **developing new solutions for specific industry/sector, with a passion for specific aspect or challenge.**
 
