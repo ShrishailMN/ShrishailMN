@@ -19,8 +19,8 @@ I'm a passionate Computer Science student with a keen interest in software devel
 
 <section class="stats" align="center">
     <h2>GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=ShrishailMN&show_icons=true&theme=radical" alt="Shrishail's GitHub Stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShrishailMN&theme=radical" alt="Shrishail's GitHub Streak">
+    <img src="https://github-readme-stats.vercel.app/api?username=ShrishailMN&show_icons=true&theme=radical" alt="Shrishail's GitHub Stats"><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShrishailMN&theme=radical" alt="Shrishail's GitHub Streak"><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrishailMN&layout=compact&theme=radical" alt="Shrishail's Top Languages">
 </section>
 
