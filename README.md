@@ -1,4 +1,4 @@
-# Hi there, I'm Shrishail M Nandargi 👋
+#<center> Hi there, I'm Shrishail M Nandargi 👋</center>
 
 ## About Me
 I'm a passionate Computer Science student with a keen interest in software development and data structures. I love exploring new technologies and applying them to solve real-world problems.
