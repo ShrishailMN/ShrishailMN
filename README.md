@@ -17,8 +17,8 @@ I'm a passionate Computer Science student with a keen interest in software devel
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 ![AngularJS](https://img.icons8.com/color/48/000000/angularjs.png)
 
+<h2>GitHub Stats</h2>
 <section class="stats" align="center">
-    <h2>GitHub Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=ShrishailMN&show_icons=true&theme=radical" alt="Shrishail's GitHub Stats"><br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShrishailMN&theme=radical" alt="Shrishail's GitHub Streak"><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrishailMN&layout=compact&theme=radical" alt="Shrishail's Top Languages">
