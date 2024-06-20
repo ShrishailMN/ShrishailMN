@@ -17,12 +17,24 @@ I'm a passionate Computer Science student with a keen interest in software devel
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 ![AngularJS](https://img.icons8.com/color/48/000000/angularjs.png)
 
-<h2>GitHub Stats</h2>
-<section class="stats" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ShrishailMN&show_icons=true&theme=radical" alt="Shrishail's GitHub Stats"><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShrishailMN&theme=radical" alt="Shrishail's GitHub Streak"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrishailMN&layout=compact&theme=radical" alt="Shrishail's Top Languages">
-</section>
+## GitHub Stats
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=ShrishailMN&show_icons=true&theme=radical" alt="Shrishail's GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShrishailMN&theme=radical" alt="Shrishail's GitHub Streak">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrishailMN&layout=compact&theme=radical" alt="Shrishail's Top Languages">
+    </td>
+  </tr>
+</table>
+</div>
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shrishail-m-n-4b3997270/)
