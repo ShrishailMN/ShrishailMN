@@ -29,8 +29,13 @@ I'm a passionate Computer Science student with a keen interest in software devel
     </td>
   </tr>
   <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrishailMN&layout=compact&langs_count=8&theme=radical" alt="Shrishail's Top Languages" width="100%">
+    </td>
+  </tr>
+  <tr>
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShrishailMN&layout=compact&theme=radical" alt="Shrishail's Top Languages">
+      <img src="https://activity-graph.herokuapp.com/graph?username=ShrishailMN&theme=radical" alt="Shrishail's Contributions" width="100%">
     </td>
   </tr>
 </table>
