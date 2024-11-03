@@ -47,7 +47,7 @@ I'm a passionate Computer Science student with a keen interest in software devel
 
 ## 🌐 Connect with Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/shrishail-m-n-4b3997270/" target="_blank">
+  <a href="https://www.linkedin.com/in/shrishail-nandargi-4b3997270/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/ShrishailMN" target="_blank">
